@@ -27,7 +27,7 @@
     <string name="txt_ok">OK</string>
     <string name="txt_get_update">Download new version</string>
     <string name="txt_check_update_title">Update</string>
-    <string name="txt_check_update_msg">New update is available. We've made some improvemetns to offer you better shopping experience!</string>
+    <string name="txt_check_update_msg">New update is available. Please update to enjoy the new experience!</string>
     <string name="txt_later">Later</string>
     <string name="txt_downloading">Downloading...</string>
 

@@ -342,7 +342,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             public void run() {
                 doubleBackToExitPressedOnce = false;
             }
-        }, 100);
+        }, 1500);
     }
 
     @Override
