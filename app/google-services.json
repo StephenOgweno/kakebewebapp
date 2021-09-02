@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "851778154550",
+    "project_id": "kakebe-shop-online",
+    "storage_bucket": "kakebe-shop-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851778154550:android:d3aee0bf7e35126338a897",
+        "android_client_info": {
+          "package_name": "com.shop.kakebe.KaKebe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851778154550-je0ltng54ihnptna0hd3jldkjkgeejqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shop.kakebe.KaKebe",
+            "certificate_hash": "1232138711cb31627dab95fe4d2b733097277b64"
+          }
+        },
+        {
+          "client_id": "851778154550-ggu6711qnik3siads8q74hb78m1iiv9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV2Irbdl7_AGOvja35_vQyH3Zs_NACRf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851778154550-ggu6711qnik3siads8q74hb78m1iiv9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
